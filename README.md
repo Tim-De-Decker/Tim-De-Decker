@@ -4,4 +4,4 @@ Vous y trouverez un échantillon des travaux réalisés dans le cadre de ma form
 - [__Etudes__](https://github.com/Tim-De-Decker/Etudes) pour les projets liés aux cours suivis lors de mes deux années de master en mathématiques appliquées ;
 - [__Stage Enerdata__](https://github.com/Tim-De-Decker/Stage_Enerdata) pour un résumé de mon travail en tant que data analyst / développeur Python au sein du cabinet d'études sur l'énergie et le climat grenoblois Enerdata.
 
-Sur ces bases viendront progressivement s'ajouter des projets personnels : compétitions Kaggle, entraînement par renforcement d'une IA de jeu vidéo, clonage de voix ou génération de texte via deep learning par exemple.
+Sur ces bases viendront progressivement s'ajouter des projets personnels : compétitions Kaggle, entraînement par renforcement d'une IA de jeu vidéo, clonage de voix ou génération de texte grâce au deep learning par exemple.
